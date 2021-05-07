@@ -1,0 +1,15 @@
+//MY SECOND PROGRAM WITH MY CAPTAIN AADHAR BHATNAGAR SIR
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    float a,b;
+    cout << "Please enter number 1: ";
+    cin>>a;
+    cout<<"Please enter number 2: ";
+    cin>>b;
+    cout<<"The product of the two numbers is: "<<a*b;
+
+    return 0;
+}
